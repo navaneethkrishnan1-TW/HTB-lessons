@@ -1,9 +1,6 @@
 # 🎬 Web Requests Mastery: From Basics to API Manipulation
 ### A Complete Video Masterclass & Reference Guide (HTB Academy)
 
-> **Achievement Unlocked:** [Web Requests Module Badge](https://academy.hackthebox.com/achievement/549378/35)  
-> **Student:** `4navaneeth4_1` | **Status:** 100% Completed | **Rank:** Beginner 2
-
 ---
 
 ## 📺 Video Overview & Production Blueprint
